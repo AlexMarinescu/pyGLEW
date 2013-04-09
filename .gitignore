@@ -1,0 +1,7 @@
+*.py[cod]
+*.so
+*.exe
+*.dll
+*.orig
+*.c
+build/*
