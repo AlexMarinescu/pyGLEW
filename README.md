@@ -1,4 +1,0 @@
-pyGLEW
-======
-
-GLEW Python binding
